@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VisionGuard AI",
+  "description": "A futuristic AI-powered Smart Attendance and Unauthorized Person Detection System with real-time monitoring and advanced security analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
